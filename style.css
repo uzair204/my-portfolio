@@ -1,0 +1,26 @@
+b{
+    color: green;
+}
+
+label{
+    color: rgba(0, 0, 255, 0.692);
+}
+
+h3{
+    color: chocolate;
+}
+body{
+    background-color: cadetblue;
+}
+select{
+    color: crimson;
+    background-color: black;
+}
+button{
+  color: bisque;
+  background-color:black;
+}
+a{
+    color:white;
+}
+
